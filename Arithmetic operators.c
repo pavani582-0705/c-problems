@@ -28,6 +28,7 @@ int main() {
         printf("ModularDivision of %d and %d = %d",num1,num2,num1%num2,choice);
         break;
         default :
+            printf("Invalid choice");
         break;
     }
     count++;
