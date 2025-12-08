@@ -11,7 +11,7 @@ int main()
     }
     else
     {
-    printf("Fcatorial of %d is: %d",n,fact(n));
+    printf("Factorial of %d is: %d",n,fact(n));
     }
     return 0;
 }
